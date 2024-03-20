@@ -12475,3 +12475,63 @@
   text-transform:none;
   visibility:hidden;
 }
+#u504_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:2360px;
+  height:1578px;
+}
+#u504 {
+  border-width:0px;
+  position:absolute;
+  left:257px;
+  top:5422px;
+  width:2360px;
+  height:1578px;
+  display:flex;
+}
+#u504 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u504_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u505_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:2358px;
+  height:1144px;
+}
+#u505 {
+  border-width:0px;
+  position:absolute;
+  left:254px;
+  top:4228px;
+  width:2358px;
+  height:1144px;
+  display:flex;
+}
+#u505 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u505_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
