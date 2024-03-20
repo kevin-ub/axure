@@ -10,7 +10,14 @@
   line-height:normal;
   text-transform:none;
 }
+.shape {
+}
 .image {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 .heading_1 {
   font-family:"ArialMT", "Arial", sans-serif;
@@ -56,55 +63,55 @@
 .paragraph {
   text-align:left;
 }
+.line {
+}
+.radio_button {
+  text-align:left;
+}
+.connector {
+  font-size:20px;
+}
+.marker {
+  color:#FFFFFF;
+}
 .form_hint {
   color:#999999;
 }
 .form_disabled {
 }
-.text_field {
-  text-align:left;
-}
-.flow_shape {
-}
-._图像 {
-}
-.line {
-}
-.label {
-  font-size:14px;
-  text-align:left;
-}
 .box_2 {
 }
 .box_3 {
 }
-.ellipse {
-}
-.image1 {
-  color:#000000;
+.box_1 {
 }
 .icon {
 }
 ._默认样式 {
 }
-.box_1 {
+.label {
+  font-size:14px;
+  text-align:left;
 }
-._默认样式1 {
-}
-.connector {
+._36号字_顶部标题、大按钮、弹窗提示主标题_ {
   font-family:"PingFangSC-Regular", "PingFang SC", sans-serif;
   font-weight:400;
   font-style:normal;
-  font-size:14px;
-  color:#D9001B;
+  font-size:18px;
+  text-align:left;
 }
-.marker {
-  color:#FFFFFF;
+._30号字_服务主标题，例如双行列表内的下方描述信息。__） {
+  font-family:"PingFangSC-Regular", "PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+  text-align:left;
 }
-._表单禁用 {
+.text_field {
+  color:#000000;
+  text-align:left;
 }
-.horizontal_line {
-}
-.shape {
+.image1 {
+  color:#000000;
 }
 textarea, select, input, button { outline: none; }
