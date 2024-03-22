@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="37px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter x="96px" y="1006px" width="30px" height="37px" filterUnits="userSpaceOnUse" id="filter158">
+      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.6980392156862745 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget159">
+      <path d="M 110 1036.0287944182553  C 106.2 1029.6523350266186  100.5 1025.8264593916367  100.5 1019.45  C 100.5 1016.1257142857143  102.4 1010.5  110 1010.5  C 117.6 1010.5  119.5 1016.1257142857143  119.5 1019.45  C 119.5 1025.8264593916367  113.8 1029.6523350266186  110 1036.0287944182553  Z " fill-rule="nonzero" fill="#00c2ff" stroke="none" />
+      <path d="M 110 1037  C 106 1030.25  100 1026.2  100 1019.45  C 100 1015.94  102 1010  110 1010  C 118 1010  120 1015.94  120 1019.45  C 120 1026.2  114 1030.25  110 1037  Z M 110 1035.0575888365104  C 113.6 1029.0546700532373  119 1025.4529187832732  119 1019.45  C 119 1016.3114285714286  117.2 1011  110 1011  C 102.8 1011  101 1016.3114285714286  101 1019.45  C 101 1025.4529187832732  106.4 1029.0546700532373  110 1035.0575888365104  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -96 -1006 )">
+    <use xlink:href="#widget159" filter="url(#filter158)" />
+    <use xlink:href="#widget159" />
+  </g>
+</svg>
