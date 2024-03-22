@@ -83,6 +83,8 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 .box_1 {
 }
 .icon {
@@ -113,5 +115,11 @@
 }
 .image1 {
   color:#000000;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
 }
 textarea, select, input, button { outline: none; }
